@@ -43,114 +43,60 @@ Data Scientist with 5+ years delivering end-to-end solutions for retail and adja
 
 One-liner (optional): Data Scientist (5+ yrs) — NLP, forecasting & recommenders in production; Python/SQL, BigQuery/Databricks/Spark, Vertex AI/Azure ML; business-impact focus.
 
-## 🛠️ Tech Stack (English version)
+## 🛠️ Tech Stack 
 
 **Programming Languages**
 
 * Python, R, SQL
 
-**Data Manipulation & ETL**
+**Data & ETL**
 
 * Pandas, NumPy, PySpark, Spark, Hadoop
 * SQL Server, BigQuery, Databricks
 
 **Statistics & Mathematics**
 
-* Descriptive and inferential statistics
-* Hypothesis testing, correlation, ANOVA, linear/multiple regression
-* Probability, distributions, and sampling
+* Descriptive & inferential stats, probability, regression, hypothesis testing
 
 **Machine Learning**
 
-**Classical Models**
-
-* Regression: Linear, Logistic, Ridge, Lasso, ElasticNet
-* Classification: k-NN, Naive Bayes, Decision Trees, SVM
-* Clustering: K-Means, DBSCAN, Hierarchical Clustering, Gaussian Mixture Models, LDA, LSA
-
-**Ensemble Methods**
-
-* Bagging: Random Forest, Extra Trees
-* Boosting: XGBoost, LightGBM, CatBoost, AdaBoost, Gradient Boosting
-* Stacking & Blending (meta-models combining different learners)
-
-**Feature Engineering**
-
-* Handling missing values (imputation, interpolation)
-* Outlier detection and treatment
-* Scaling and normalization (StandardScaler, MinMax, Robust, log transforms)
-* Encoding categorical variables (One-Hot, Target Encoding, Embeddings)
-
-**Feature Selection**
-
-* Filter methods (correlation, Chi-Square, ANOVA)
-* Wrapper methods (Recursive Feature Elimination, Sequential Selection)
-* Embedded methods (Lasso, Tree-based feature importance, SHAP, LIME)
-
-**Dimensionality Reduction & Feature Engineering**
-
-* PCA, t-SNE, UMAP
-* Feature selection (filter, wrapper, embedded methods)
-* Handling imbalanced datasets (SMOTE, undersampling, oversampling)
-
-**Advanced Topics**
-
-* Anomaly detection (Isolation Forest, One-Class SVM, Autoencoders)
-* Recommendation systems (Collaborative Filtering, Matrix Factorization, Content-Based)
-* Semi-supervised learning (Label Propagation, Self-training)
-* Active learning strategies
-
-* **Optimization & Evaluation**
-
-* Cross-validation, Grid Search, Random Search, Bayesian Optimization
-* Hyperparameter tuning (Optuna, Hyperopt)
-* Model explainability (SHAP, LIME, feature importance)
+* Regression, Classification, Clustering (K-Means, DBSCAN, Hierarchical)
+* Ensemble methods: Random Forest, XGBoost, LightGBM, CatBoost
+* Feature engineering & selection, dimensionality reduction (PCA, t_SNE)
+* Recommenders, anomaly detection, hyperparameter optimization (Optuna, Bayesian)
 
 **Time Series**
 
-* Classical models: AR, MA, ARIMA, SARIMA
-* Deep Learning models: LSTM, GRU
-* Large-scale forecasting with ML/DL
+* ARIMA/SARIMA, Prophet
+* Deep Learning: LSTM, GRU
 
 **Deep Learning**
 
-* Multilayer Perceptrons (MLP)
-* CNNs for computer vision (VGG16, ResNet, MobileNet, EfficientNet)
-* RNNs, LSTM, GRU for sequential/temporal data
+* MLPs, CNNs, RNNs
 * GANs (DCGAN, Pix2Pix, CycleGAN, DeOldify)
-* Transfer Learning for vision and NLP
+* Transfer Learning (VGG, ResNet, MobileNet, EfficientNet)
 
-**NLP (Natural Language Processing)**
+**NLP & Transformers**
 
-* Preprocessing: tokenization, stopwords, stemming, lemmatization, regex, n-grams
-* Representation: TF-IDF, Word2Vec, Doc2Vec, contextual embeddings (BERT, SBERT)
-* Tasks: sentiment analysis, classification, summarization, NER
-
-* Transformers applied:
-
-  * **BERT**: sequence classification, contextual embeddings
-  * **BART**: summarization, text generation and classification
-  * **ChemBERTa**: applied to healthcare, biomedical and chemical documents
-  * **Custom Transformers**: fine-tuning for climate analysis, retail, and clinical documents
+* Preprocessing (tokenization, lemmatization, n-grams, embeddings)
+* BERT (sequence classification), BART (summarization/generation)
+* ChemBERTa (biomedical/healthcare text)
+* Sentiment analysis, classification, summarization, NER
 
 **LLMs (Large Language Models)**
 
-* Fine-tuning & Prompt Engineering
-* RAG (Retrieval-Augmented Generation)
-* Text classifiers based on embeddings
-* Integration with agents/automation (LangChain, LlamaIndex, Gemini, LLaMA)
+* Fine-tuning, Prompt Engineering, RAG
+* Embedding-based classifiers, LangChain, LlamaIndex, Gemini, LLaMA
 
 **Cloud & MLOps**
 
 * Google Cloud (BigQuery, Vertex AI), Azure ML, AWS SageMaker
-* Model deployment, CI/CD, versioning and monitoring
-* Data orchestration and pipelines (Airflow, Prefect, Kubeflow)
+* Model deployment, CI/CD, monitoring, pipelines (Airflow, Prefect, Kubeflow)
 
-**Business Intelligence & Visualization**
+**BI & Visualization**
 
 * Power BI, Qlik Sense, Looker Studio, Excel
-* Executive dashboards, data storytelling
-* Python Data Viz: Matplotlib, Seaborn, Plotly
+* Matplotlib, Seaborn, Plotly
 
 ## 🚀 Highlight Projects
 
