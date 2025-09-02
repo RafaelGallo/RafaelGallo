@@ -132,6 +132,12 @@ One-liner (optional): Data Scientist (5+ yrs) — NLP, forecasting & recommender
   Repo: https://github.com/RafaelGallo/LLM_Engineering_prompt_LLama3_Sentiment_analysis_climate  
   _LLM · Prompting · NLP_
 
+  ### 📚 Kaggle Competitions
+
+- **Kaggle Projects**  
+  Works hosted in [Kaggle_comp](https://github.com/RafaelGallo/Kaggle_comp/tree/main): Notebooks and production pipelines for datasets, including EDA, feature engineering, modeling, and submission for real-world challenges.  
+  _Python · scikit-learn · Ensemble models · EDA · visualization · documented kernels_
+
 ### 📚 MBA Projects (FIAP)
 
 - **FIAP Cognitive Environments**  
@@ -154,14 +160,16 @@ One-liner (optional): Data Scientist (5+ yrs) — NLP, forecasting & recommender
   _Pandas · scikit-learn · BI · Storytelling_  
   Repo: https://github.com/RafaelGallo/portiforio_FIAP_MBA_DataScience
 
-### 🏫 Data Science Academy Practical Projects
+### 🎓 Extra Courses
+
+### 🏫 Data Science Academy 
 
 - **Practical Projects – Data Science Academy**  
   A collection of mini-projects from the Data Science Academy training: big data with R and Azure ML, Python/Spark, Machine Learning, Business Analytics, visualization, and data engineering (Hadoop/Spark).  
   Tasks include churn analysis, recommender systems, fraud detection, sentiment analysis, time series forecasting, and dashboards.  
   Repo: https://github.com/RafaelGallo/Projetos_dsa
 
-### 🎓 Extra Courses (Coursera)
+### Coursera
 
 - **Deep Learning Specialization (DeepLearning.AI – Coursera)**  
   Hands-on implementations across five modules, covering everything from **basic neural networks** to **CNNs, Seq2Seq, LSTMs/GRUs, and optimization strategies**.  
