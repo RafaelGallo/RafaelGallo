@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Rafael Gallo
+# 👋 Hi, I’m Rafael Gallo
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -31,72 +31,9 @@
 ![Kanban](https://img.shields.io/badge/-Kanban-00A4EF?style=for-the-badge)
 ![OKR](https://img.shields.io/badge/-OKR-8B5CF6?style=for-the-badge)
 
-Cientista de Dados com 5+ anos entregando soluções ponta a ponta para o varejo e outros setores. Atuo do ETL/engenharia de dados à modelagem (ML/DL/NLP), validação e produção/MLOps, principalmente com Python e SQL. Experiência sólida em pipelines escaláveis (BigQuery, Databricks, Spark) e operações em cloud (Google Cloud, Azure, AWS), sempre conectando métrica técnica a resultado de negócio.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/117a8922-9a2a-454b-aa8a-d8aae29f0df1" />
 
-🔎 NLP em escala: análise de comentários/avaliações, classificação de sentimento/tópicos e uso de LLMs (prompting/embeddings) para gerar insights acionáveis.
-
-☁️ Cloud & Produção: orquestração de dados, versionamento de experimentos e deployment de modelos em Vertex AI e Azure ML.
-
-📈 Analytics orientado a impacto: modelos preditivos (churn, recomendação, séries temporais) e dashboards executivos (Power BI, Qlik Sense, Looker Studio) para tomada de decisão.
-
-## 🛠️ Stack & Competências
-
-**Linguagens:** Python, R, SQL
-
-**Dados & ETL:** Pandas, PySpark, Spark, Hadoop, SQL Server, BigQuery, Databricks
-
-**ML & Estatística:** Regressão, Classificação, Séries Temporais, Deep Learning, NLP, LLMs  
-
-**Cloud & MLOps:** Google Cloud, Vertex AI, Azure, Azure Machine Learning, AWS  
-
-**Visualização & BI:** Power BI, Qlik Sense, Looker Studio, Excel  
-
-**Métodos de Trabalho:** Scrum, Kanban, OKR
-
-## 🚀 Projetos em Destaque
-
-- **CNN Car Damage Severity (MobileNetV2 + YOLOv8)** – classificação da severidade de dano e detecção de regiões.  
-  Repositório: https://github.com/RafaelGallo/CNN_Car_Damage_Severity_MobileNetV2_YoloV8  
-  _DL · Visão Computacional · Transfer Learning · Detecção & Classificação_
-
-- **Bank Customer Churn – ML Pipeline** – previsão de churn com engenharia de atributos e validação.  
-  Repositório: https://github.com/RafaelGallo/ML_Bank-Customer-Churn  
-  _ML Clássico · Classificação · Pipeline sklearn_
-
-- **Auto Insurance Claims – Perceptron/MLP** – modelagem supervisionada para sinistros/propensão.  
-  Repositório: https://github.com/RafaelGallo/Auto-Insurance-Claims-Neural-Networks-Perceptron-MLP  
-  _Redes Neurais · MLP · Avaliação_
-
-- **DeOldify – Colorização com GAN** – colorização de imagens P&B com arquitetura DeOldify.  
-  Repositório: https://github.com/RafaelGallo/GAN_Generative-Adversarial-Network_DeOldify  
-  _GAN · Computer Vision · Inferência_
-
-- **Plant Disease Recognition – CNN (MobileNetV2/VGG16)** – classificação de doenças em folhas.  
-  Repositório: https://github.com/RafaelGallo/Plant-disease-recognition---CNN-MobileNetV2-VGG16  
-  _DL · Transfer Learning · Imagens_
-
-- **Breast Tumor Cell Nuclei – CNN Segmentation** – segmentação de núcleos/células tumorais.  
-  Repositório: https://github.com/RafaelGallo/Breast-Tumor-Cell-Nuclei-Convolutional-Neural-Network-Segmentation  
-  _Segmentação · CNN · Saúde_
-
-- **Skin Cancer – U-Net VGG16** – segmentação de lesões cutâneas com U-Net (encoder VGG16).  
-  Repositório: https://github.com/RafaelGallo/Convolutional-Neural-Network-Skin-Cancer-U-Net-VGG16  
-  _U-Net · Transfer Learning · Imagens Médicas_
-
-- **LLM Prompt Engineering – Llama 3 (Sentimento/Clima)** – engenharia de prompt e análise de sentimento.  
-  Repositório: https://github.com/RafaelGallo/LLM_Engineering_prompt_LLama3_Sentiment_analysis_climate  
-  _LLM · Prompting · NLP_
-
-## 📫 Contato
-
-- LinkedIn: [https://www.linkedin.com/in/SEU_USUARIO](https://www.linkedin.com/in/rafael-g-986a73150/)  
-- E-mail: rafaelhenriquegallo@gmail.com
-- GitHub: https://github.com/RafaelGallo
-
-⭐ *Sempre aprendendo e explorando novas fronteiras em ciência de dados, IA e modelos generativos.*
-
-🇺🇸
-# 👋 Hi, I’m Rafael Gallo
+## About
 
 Data Scientist with 5+ years delivering end-to-end solutions for retail and adjacent industries. I cover the full stack—from data engineering/ETL to modeling (ML/DL/NLP), validation, and production/MLOps—primarily in Python and SQL. Strong track record building scalable pipelines (BigQuery, Databricks, Spark) and running cloud-native deployments (Google Cloud, Azure, AWS), tying technical metrics to business outcomes.
 
@@ -156,6 +93,3 @@ One-liner (optional): Data Scientist (5+ yrs) — NLP, forecasting & recommender
 - LinkedIn: [https://www.linkedin.com/in/SEU_USUARIO](https://www.linkedin.com/in/rafael-g-986a73150/)  
 - E-mail: rafaelhenriquegallo@gmail.com
 - GitHub: https://github.com/RafaelGallo
-
-⭐ *Always learning and exploring new frontiers in data science, AI, and generative models.*
-
